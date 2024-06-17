@@ -1,46 +1,4 @@
 
-## Overview
-# Reise: Empowering Real-Life Experiences with Digital Cards
-
-Welcome to Reise! We're a platform empowering individuals to curate, collect, and own their real-life experiences through digital cards, revolutionizing tourism and community engagement with NFTs.
-
-## Features
-
-1. **Task Completion:** Reise offers task completion features, encouraging users to engage with local businesses and explore destinations to earn rewards.
-
-2. **Collect and Share Digital Cards:** Our platform enables users to collect and share digital cards, showcasing their real-life experiences, including lesser-known local attractions, and preserving them as NFTs.
-
-3. **Earn Points for Rewards:** Users have the opportunity to accumulate points by completing tasks provided by local businesses or achieving a full collection of locations, thereby unlocking rewards.
-
-## Roadmap
-
-### Year 1:
-- **Launch and Initial Growth:** Introduce Reise to the market and establish our user base.
-- **Feature Development:** Continuously enhance our platform with new and exciting features.
-- **Partnerships and Collaborations:** Forge strategic partnerships to expand our reach and offerings.
-- **Marketing and Brand Building:** Build awareness and establish Reise as a leading platform in the industry.
-
-### Year 2:
-- **Scaling and Expansion:** Scale operations and expand into new markets.
-- **Enhanced Monetization:** Implement advanced monetization strategies to sustain growth.
-- **Community Building:** Foster a strong and engaged community around Reise.
-- **Continuous Innovation:** Stay ahead of the curve by continuously innovating and adapting to user needs.
-
-### Year 3:
-- **Launch Token & Expand Rewards System:** Introduce our native token and expand our rewards system.
-- **Continuous Product Refinement:** Continuously refine and improve our platform based on user feedback.
-- **Enhanced DePIN Features:** Enhance security and user privacy with advanced DePIN features.
-- **Additional Revenue Streams:** Explore and implement additional revenue streams to ensure long-term sustainability.
-
-Reise: Explore. Collect. Own.
-
-### Mobile Development Coming Soon
-
-We're committed to providing a seamless mobile experience for our users. As developers who are currently students, our primary goal is learning and research. Therefore, we aim to launch our mobile application as quickly as possible to expand our learning experience.
-
-#### How to Contribute:
-
-If you're interested in contributing your local business, please contact us at thaitv225@gmail.com. We welcome any contributions and look forward to collaborating with you!
 
 ## Getting Started
 
