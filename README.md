@@ -1,4 +1,26 @@
+# ReiseDapp
 
+ReiseDapp là một ứng dụng giúp người dùng thu thập và lưu giữ những kỷ niệm du lịch dưới dạng NFT (Non-Fungible Token). Người dùng cũng có thể kiếm các phần thưởng từ những NFT này.
+
+## Mục Lục
+
+- [Giới Thiệu](#giới-thiệu)
+- [Tính Năng](#tính-năng)
+- [Cài Đặt](#cài-đặt)
+- [Cách Sử Dụng](#cách-sử-dụng)
+- [Đóng Góp](#đóng-góp)
+- [Giấy Phép](#giấy-phép)
+
+## Giới Thiệu
+
+ReiseDapp là ứng dụng dựa trên công nghệ blockchain giúp người dùng lưu giữ và chia sẻ những kỷ niệm du lịch của mình thông qua NFT. Người dùng có thể tạo ra các NFT từ những bức ảnh hoặc video du lịch, chia sẻ chúng với cộng đồng và kiếm phần thưởng từ các NFT này.
+
+## Tính Năng
+
+- **Tạo NFT từ kỷ niệm du lịch**: Người dùng có thể chuyển đổi những bức ảnh hoặc video du lịch thành NFT.
+- **Chia sẻ kỷ niệm**: Chia sẻ những kỷ niệm du lịch dưới dạng NFT với cộng đồng.
+- **Kiếm phần thưởng**: Nhận các phần thưởng từ việc sở hữu và chia sẻ các NFT.
+- **Giao diện thân thiện**: Dễ dàng sử dụng và tương tác với ứng dụng.
 
 ## Getting Started
 
