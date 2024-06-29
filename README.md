@@ -22,37 +22,43 @@ ReiseDapp là ứng dụng dựa trên công nghệ blockchain giúp người d�
 - **Kiếm phần thưởng**: Nhận các phần thưởng từ việc sở hữu và chia sẻ các NFT.
 - **Giao diện thân thiện**: Dễ dàng sử dụng và tương tác với ứng dụng.
 
-## Getting Started
+## Cài Đặt
 
-First, run the development server:
+Để cài đặt và chạy ứng dụng trên máy tính của bạn, làm theo các bước sau:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. Clone repository:
+    ```bash
+    git clone https://github.com/TaThasi/ReiseDapp.git
+    cd ReiseDapp
+    ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Cài đặt các phụ thuộc:
+    ```bash
+    npm install
+    ```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Chạy ứng dụng:
+    ```bash
+    npm start
+    ```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Cách Sử Dụng
 
-## Learn More
+1. Mở ứng dụng và tạo tài khoản mới nếu bạn chưa có.
+2. Đăng nhập vào tài khoản của bạn.
+3. Tải lên các bức ảnh hoặc video du lịch để tạo NFT.
+4. Chia sẻ các NFT của bạn với cộng đồng và nhận phần thưởng.
 
-To learn more about Next.js, take a look at the following resources:
+## Đóng Góp
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Chúng tôi luôn chào đón các đóng góp từ cộng đồng. Nếu bạn muốn đóng góp cho dự án, vui lòng làm theo các bước sau:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+1. Fork repository này.
+2. Tạo nhánh tính năng mới (git checkout -b feature/AmazingFeature).
+3. Commit các thay đổi của bạn (git commit -m 'Add some AmazingFeature').
+4. Push nhánh của bạn (git push origin feature/AmazingFeature).
+5. Tạo Pull Request.
 
-## Deploy on Vercel
+## Giấy Phép
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Dự án này được cấp phép dưới giấy phép MIT. Xem tệp LICENSE để biết thêm chi tiết.
